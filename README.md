@@ -7,21 +7,21 @@ https://github.com/laaraujo1990/teste_tecnico_captalys_leo
 https://hub.docker.com/repository/docker/laaraujo1990/teste_tecnico_captalys
 https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 
-- Ambiente de hardware:
-MacBook Air (13-inch, Early 2015)
+##### Ambiente de hardware:
+> MacBook Air (13-inch, Early 2015)
 
-- Ambiente de software:
-macOS Catalina v10.15.7
-Python v3.8.2
-Flask v1.1.2
+##### Ambiente de software:
+> macOS Catalina v10.15.7
+> Python v3.8.2
+> Flask v1.1.2
 
-- Ambiente de desenvolvimento e teste
-Visual Studio Code v1.51.1
-Google Chrome
-web.postman.co
+##### Ambiente de desenvolvimento e teste
+> Visual Studio Code v1.51.1
+> Google Chrome
+> web.postman.co
 
-- Ambiente virtual
-Docker v2.5.0.1
+##### Ambiente virtual
+> Docker v2.5.0.1
 
 - Arquivos
 descricao_teste.pdf : Enunciado do desafio tecnico
