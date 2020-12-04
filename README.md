@@ -1,9 +1,9 @@
-Projeto Teste Tecnico Captalys - Leonardo Araujo - 03/12/2020
+### Projeto Teste Tecnico Captalys - Leonardo Araujo - 03/12/2020
 
-- Repositorio do codigo:
+##### Repositorio do codigo:
 https://github.com/laaraujo1990/teste_tecnico_captalys_leo
 
-- Repositorio do container Docker:
+##### Repositorio do container Docker:
 https://hub.docker.com/repository/docker/laaraujo1990/teste_tecnico_captalys
 https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 
@@ -69,5 +69,3 @@ Resultado: acesse a url http://localhost:5001
 Resultado: acesse a url http://localhost:5001/repositories/<nome do usuario>
 - Segundo Endpoint
 Resultado: acesse a url http://localhost:5001/repositories/<nome do usuario>/<nome do repositorio>
-
-
