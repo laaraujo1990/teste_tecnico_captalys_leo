@@ -1,34 +1,27 @@
 ## Projeto Teste Tecnico Captalys - Leonardo Araujo - 03/12/2020
 
-
 ### Repositorio do codigo:
 https://github.com/laaraujo1990/teste_tecnico_captalys_leo
-
 
 ### Repositorio do container Docker:
 https://hub.docker.com/repository/docker/laaraujo1990/teste_tecnico_captalys
 https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 
-
 ### Ambiente de hardware:
 * MacBook Air (13-inch, Early 2015)
-
 
 ### Ambiente de software:
 * macOS Catalina v10.15.7
 * Python v3.8.2
 * Flask v1.1.2
 
-
 ### Ambiente de desenvolvimento e teste
 * Visual Studio Code v1.51.1
 * Google Chrome
 * web.postman.co
 
-
 ### Ambiente virtual
 * Docker v2.5.0.1
-
 
 ### Arquivos
 * descricao_teste.pdf : Enunciado do desafio tecnico
@@ -37,7 +30,6 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 * ex03_repositorios_por_usuario_github.py : Usado para listar repositorios da API do GitHub
 * teste_tecnico_captalys.py : Arquivo principal do desafio tecnico
 * Dockerfile : Usado para subir o programa num container Docker
-
 
 ### Configuracao de ambiente:
 * Criar ambiente virtual
@@ -53,7 +45,6 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 * Desativar ambiente virtual
 >deactivate
 
-
 ### Execucao do programa no ambiente local
 >python3 teste_tecnico_captalys.py
 * Resultado: acesse a url http://localhost:5000
@@ -61,7 +52,6 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 * Resultado: acesse a url http://localhost:5000/repositories/(nome_do_usuario)
 * Segundo Endpoint
 * Resultado: acesse a url http://localhost:5000/repositories/(nome_do_usuario)/(nome_do_repositorio)
-
 
 ### Configuracao no Docker
 * Gerando o Container
