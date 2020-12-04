@@ -70,3 +70,4 @@ Docker v2.5.0.1
 - Segundo Endpoint
 # Resultado: acesse a url http://localhost:5001/repositories/<nome do usuario>/<nome do repositorio>
 
+
