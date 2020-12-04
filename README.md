@@ -47,10 +47,11 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 
 ### Execucao do programa no ambiente local
 >python3 teste_tecnico_captalys.py
+* Home:
 * Resultado: acesse a url http://localhost:5000
-* Primeiro Endpoint
+* Primeiro Endpoint:
 * Resultado: acesse a url http://localhost:5000/repositories/(nome_do_usuario)
-* Segundo Endpoint
+* Segundo Endpoint:
 * Resultado: acesse a url http://localhost:5000/repositories/(nome_do_usuario)/(nome_do_repositorio)
 
 ### Configuracao no Docker
@@ -64,8 +65,9 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 >docker tag teste_tecnico_captalys [dockerhub username]/teste_tecnico_captalys
 * Enviando a imagem para o docker hub
 >docker push [dockerhub username]/teste_tecnico_captalys
+* Home:
 * Resultado: acesse a url http://localhost:5001
-* Primeiro Endpoint
+* Primeiro Endpoint:
 * Resultado: acesse a url http://localhost:5001/repositories/(nome_do_usuario)
-* Segundo Endpoint
+* Segundo Endpoint:
 * Resultado: acesse a url http://localhost:5001/repositories/(nome_do_usuario)/(nome_do_repositorio)
