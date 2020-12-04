@@ -4,7 +4,6 @@
 https://github.com/laaraujo1990/teste_tecnico_captalys_leo
 
 ### Repositorio do container Docker:
-https://hub.docker.com/repository/docker/laaraujo1990/teste_tecnico_captalys
 https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 
 ### Ambiente de hardware:
