@@ -49,9 +49,9 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 >python3 teste_tecnico_captalys.py
 * Resultado: acesse a url http://localhost:5000
 * Primeiro Endpoint
-* Resultado: acesse a url http://localhost:5000/repositories/<nome do usuario>
+* Resultado: acesse a url http://localhost:5000/repositories/(nome do usuario)
 * Segundo Endpoint
-* Resultado: acesse a url http://localhost:5000/repositories/<nome do usuario>/<nome do repositorio>
+* Resultado: acesse a url http://localhost:5000/repositories/(nome do usuario)/(nome do repositorio)
 
 ##### Configuracao no Docker
 * Gerando o Container
@@ -66,6 +66,6 @@ https://hub.docker.com/r/laaraujo1990/teste_tecnico_captalys
 >docker push [dockerhub username]/teste_tecnico_captalys
 * Resultado: acesse a url http://localhost:5001
 * Primeiro Endpoint
-* Resultado: acesse a url http://localhost:5001/repositories/<nome do usuario>
+* Resultado: acesse a url http://localhost:5001/repositories/(nome do usuario)
 * Segundo Endpoint
-* Resultado: acesse a url http://localhost:5001/repositories/<nome do usuario>/<nome do repositorio>
+* Resultado: acesse a url http://localhost:5001/repositories/(nome do usuario)/(nome do repositorio)
